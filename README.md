@@ -1,6 +1,6 @@
 ### Hi there, I'm Gaurav 👋 
 
-## I'm a Programmer Learner,Game Developer !!
+## I'm a Programmer,Learner and Game Developer !!
 
 -I’m currently C, C# and sometimes Web devlopment
 
