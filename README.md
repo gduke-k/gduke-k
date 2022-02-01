@@ -6,4 +6,4 @@
 
 -Always ready to collaborate with other creators 
 
--2021 Goals: Complete Game project by end of this year
+-2022 Goals: Complete Game Project- "B&W Life"
