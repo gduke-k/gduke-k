@@ -7,3 +7,4 @@
 -Always ready to collaborate with other creators 
 
 -2022 Goals: Complete Game Project- "B&W Life"
+             Launch Portfolio
