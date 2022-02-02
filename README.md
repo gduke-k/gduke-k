@@ -2,8 +2,8 @@
 
 ## I'm a Programmer, Learner and Game Developer !!
 
--I’m currently C, C# and sometimes Web devlopment
+- I’m currently C, C# and sometimes Web devlopment
 
--Always ready to collaborate with other creators 
+- Always ready to collaborate with other creators 
 
--2022 Goals: Complete Game Project- "B&W Life" , Launch Portfolio
+- 2022 Goals: Complete Game Project- "B&W Life" , Launch Portfolio
