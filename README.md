@@ -8,4 +8,6 @@
 
 - 2022 Goals: Complete Game Project- "B&W Life" , Launch Portfolio
 
+[CodeChef](https://www.codechef.com/users/gduke)
+
 [HackerRank](https://www.hackerrank.com/gauravkl922)
