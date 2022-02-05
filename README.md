@@ -1,4 +1,4 @@
-### Hi there, I'm Gaurav 👋 
+# Hi there, I'm Gaurav 👋 
 
 ## I'm a Programmer, Learner and Game Developer !!
 
