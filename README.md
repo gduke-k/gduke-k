@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Game Devlopment**
 
-- 📫 How to reach me **insta id - gauravk_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
