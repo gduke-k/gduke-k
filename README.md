@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **B&W Life**
 
-- 🌱 I’m currently learning **C, C# and sometimes Web devlopment**
+- 🌱 I’m currently learning **C, C#, sometimes Web devlopment and Ethical Hacking**
 
 - 👯 I’m looking to collaborate on **Game Devlopment**
 
