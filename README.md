@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A Programmer, Learner and Transforming Game Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingduke-gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="codingduke-gaurav" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=codingduke-gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="codingduke-gaurav" /> </p>
 
 - 🔭 I’m currently working on Game Project-**B&W Life**
 
