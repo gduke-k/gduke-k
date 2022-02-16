@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A Programmer, Learner and Transforming Game Developer from India</h3>
 
-<p align="right"> ![](https://hit.yhype.me/github/profile?user_id=95956977) </p>
+
 
 - 🔭 I’m currently working on Game Project-**B&W Life**
 
@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingduke-gaurav&show_icons=true&locale=en" alt="codingduke-gaurav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingduke-gaurav&" alt="codingduke-gaurav" /></p>
+![](https://hit.yhype.me/github/profile?user_id=95956977)
