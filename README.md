@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python, C#, sometimes Web devlopment**
 
-- 👯 I’m looking to collaborate on **Game Devlopment**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
