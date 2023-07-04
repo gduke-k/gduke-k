@@ -3,9 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=codingduke-gaurav&label=Profile%20views&color=0e75b6&style=flat" alt="codingduke-gaurav" /> </p>
 
-- 🔭 I’m currently working on My Skills
+-  I’m currently working on My Skills
 
-- 🌱 I’m currently learning **Python, C#, sometimes Web devlopment**
+-  I’m currently learning **Python, C#, sometimes Web devlopment**
 
   
 ---
