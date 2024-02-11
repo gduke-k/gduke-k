@@ -11,6 +11,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/gduke-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gduke-k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gduke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gduke" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gauravkl922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravkl922" height="30" width="40" /></a>
   
