@@ -8,7 +8,7 @@
 
 -  Looking for collaborate on Game Dev and Web Dev projects
 
-<a href="https://gauravkl.netlify.app/" target="blank">Portfolio</a>
+## <a href="https://gauravkl.netlify.app/" target="blank">Portfolio</a>
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
